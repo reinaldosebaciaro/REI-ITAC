@@ -1,0 +1,19 @@
+h1{
+	color: blue;
+}
+
+.p1{
+
+	border-style: solid;
+	border: 10px 10px 10px 10px;
+	background-color: blue;
+}
+ 
+.p2{
+
+
+	border-style: solid;
+	border: 10px 10px 10px 10px;
+	background-color: red;
+
+}
